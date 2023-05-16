@@ -1,3 +1,5 @@
 export const multiply = (a, b) => {
-  a * b
+  return a * b
 }
+
+//added return to pass test
